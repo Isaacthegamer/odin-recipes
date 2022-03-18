@@ -1,0 +1,23 @@
+/* styles.css */
+
+* {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #efefef;
+}
+
+h1 {
+    font-size: 72pt;
+}
+
+p {
+    margin-top: -20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    font-size: larger;
+}
